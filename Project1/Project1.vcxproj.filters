@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="OJ_homework_电话号码.cpp">
+    <ClCompile Include="OJ.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
