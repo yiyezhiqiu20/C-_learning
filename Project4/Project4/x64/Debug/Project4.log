@@ -1,0 +1,4 @@
+﻿  OJ_homework.cpp
+D:\development\vc++_homework\Project4\OJ_homework.cpp(5,12): warning C4101: “k”: 未引用的局部变量
+D:\development\vc++_homework\Project4\OJ_homework.cpp(5,9): warning C4101: “j”: 未引用的局部变量
+  Project4.vcxproj -> D:\development\vc++_homework\Project4\x64\Debug\Project4.exe

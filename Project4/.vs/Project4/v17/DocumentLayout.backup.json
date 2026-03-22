@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\development\\vc\u002B\u002B_homework\\Project4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ABCFA3B0-A9AE-468A-A244-17E047A2FC3A}|Project4.vcxproj|D:\\development\\vc\u002B\u002B_homework\\Project4\\OJ_homework.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ABCFA3B0-A9AE-468A-A244-17E047A2FC3A}|Project4.vcxproj|solutionrelative:OJ_homework.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OJ_homework.cpp",
+              "DocumentMoniker": "D:\\development\\vc\u002B\u002B_homework\\Project4\\OJ_homework.cpp",
+              "RelativeDocumentMoniker": "OJ_homework.cpp",
+              "ToolTip": "D:\\development\\vc\u002B\u002B_homework\\Project4\\OJ_homework.cpp",
+              "RelativeToolTip": "OJ_homework.cpp",
+              "ViewState": "AgIAABwAAAAAAAAAAAAzwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-22T09:07:44.355Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
